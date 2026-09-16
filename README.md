@@ -1,228 +1,256 @@
-# 👋 Hi, I'm Mohit Sahani
+<h1 align="center">Hi 👋, I'm Mohit Sahani</h1>
 
-<p align="left">
-  <strong>Full-Stack Developer • AI/GenAI Engineer • Backend Developer</strong><br/>
-  Building practical products with modern web technologies, AI pipelines, APIs, and distributed systems.
+<h3 align="center">
+Full-Stack Developer • AI/GenAI Engineer • Backend Developer
+</h3>
+
+<p align="center">
+  I build AI-powered products, scalable backend systems, and modern full-stack applications.
 </p>
 
-<p align="left">
-  🇮🇳 India &nbsp;•&nbsp;
-  🎓 B.Tech CSE &nbsp;•&nbsp;
-  🚀 Open to Full-Stack, Backend & AI opportunities
+<p align="center">
+  🇮🇳 India &nbsp;•&nbsp; 🎓 B.Tech CSE &nbsp;•&nbsp; 🚀 Builder &nbsp;•&nbsp; 🤖 AI Enthusiast
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sagolsa78">
-    <img src="https://img.shields.io/badge/GitHub-Sagolsa78-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Sagolsa78-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sahani78">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Sahani-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Sahani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://sagolsa78.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:sahanimohit5ed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 What I Build
+<img align="right"  height="165" src="https://i.imgflip.com/65efzo.gif" />
 
-I enjoy building **production-oriented software**, especially where web applications, backend systems, automation, and AI come together.
+## 👨‍💻 About Me
 
-My current areas of focus:
+I'm a **Full-Stack Developer focused on AI-powered applications and backend engineering**.
 
-* 🤖 **Generative AI & AI Automation**
-* 🧠 **LLM-powered applications**
-* ⚙️ **Backend APIs & distributed workflows**
-* 🌐 **Full-Stack Web Applications**
-* 🎬 **AI-powered media generation**
-* ☁️ **Cloud-native architecture**
-* 🗄️ **Databases, caching & storage systems**
+I enjoy taking an idea from:
 
----
+**Concept → Architecture → Development → AI Integration → Deployment**
 
-## 🛠️ Tech Stack
+My main interests are:
 
-### Languages
+* 🤖 Generative AI & LLM applications
+* 🧠 AI automation and intelligent workflows
+* ⚙️ Backend APIs and distributed systems
+* 🌐 Full-stack web development
+* ☁️ Cloud-native application architecture
+* 🎬 AI-powered content generation
+* 🗄️ Databases, caching, queues & object storage
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#" />
-</p>
+I care about building systems that go beyond demos and can be **deployed, operated and extended like real products**.
 
-### Frontend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind CSS" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
-</p>
-
-`Node.js` `Express.js` `FastAPI` `REST APIs` `JWT` `Socket.IO`
-
-### AI / ML
-
-`LLMs` `Generative AI` `Hugging Face` `Ollama` `OpenRouter` `LangChain` `OpenCV` `MediaPipe` `PaddleOCR`
-
-### Databases & Infrastructure
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
-</p>
-
-`MongoDB` `PostgreSQL` `Redis` `Docker` `GitHub Actions` `Cloudflare R2 / S3`
+<br clear="right"/>
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Project
 
-### 🎬 AutoTube AI
+<a href="https://github.com/Sagolsa78/AutoTube_AI">
 
-**AI-powered video generation and automation platform**
+## 🎬 AutoTube AI
 
-Building an end-to-end system for generating videos from a brief using AI-driven workflows.
+</a>
 
-**Highlights**
+> **AI-powered video generation and automation platform**
 
-* AI-assisted script generation
-* Storyboard-driven production pipeline
-* Multiple visual generation modes
-* Automated rendering pipeline
-* FastAPI backend
-* Redis-based job processing
-* PostgreSQL data layer
-* Object storage using S3-compatible infrastructure
-* Dockerized services
-* PWA frontend
-* Cloud + local execution architecture
-* GitHub Actions-based rendering workers
+AutoTube AI is my current major project focused on building an end-to-end system that can transform a content brief into a generated video through an automated production pipeline.
 
-🔗 **Repository:**
-https://github.com/Sagolsa78/AutoTube_AI
+### ⚡ Architecture
+
+```text
+User
+ │
+ ▼
+React / Vite Frontend
+ │
+ ▼
+FastAPI Backend
+ │
+ ├── PostgreSQL
+ ├── Redis
+ ├── Object Storage
+ └── AI / LLM Services
+          │
+          ▼
+   Video Generation Pipeline
+          │
+          ▼
+      Render Worker
+          │
+          ▼
+      Final Video
+```
+
+### 🔧 Key Areas
+
+`FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+`LLMs` `AI Generation` `Cloudflare R2 / S3` `GitHub Actions`
+
+### ✨ Features
+
+* 📝 AI-assisted script generation
+* 🎞️ Storyboard-based video pipeline
+* 🎨 Multiple visual generation modes
+* 🤖 LLM-powered workflows
+* ⚙️ Background rendering architecture
+* ☁️ S3-compatible object storage
+* 🔐 User isolation and multi-tenancy
+* 🐳 Dockerized development environment
+* 📱 PWA support
+* 🌎 Multilingual workflow
+* 💻 Local + Cloud execution architecture
+
+<a href="https://github.com/Sagolsa78/AutoTube_AI">
+  <img src="https://img.shields.io/badge/View%20Project-AutoTube%20AI-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🧾 AI Billing & ERP Platform
+# 🧩 Other Things I've Built
 
-A modern billing and ERP concept inspired by traditional business management systems, with AI integrated into operational workflows.
+### 🧾 AI Billing & ERP
 
-**Areas explored**
+A modern billing/ERP platform exploring AI-assisted invoice processing, OCR, GST workflows, inventory and offline-first architecture.
 
-`Billing` `Inventory` `GST` `OCR` `Vendor Invoices` `AI Extraction` `Offline-first Architecture`
-
----
-
-### 🤖 AI Text Summarizer
-
-Full-stack application using AI models to transform long-form text into concise summaries.
-
-**Stack**
-
-`React` `Node.js` `Hugging Face` `FastAPI`
+**Stack:** `React` `Node.js` `MongoDB` `FastAPI` `OCR` `LLMs`
 
 ---
 
 ### 🏠 BhuExpert
 
-Real-estate property search platform developed during my full-stack / AI engineering work.
+Real-estate property search and SaaS platform developed around modern full-stack and AI workflows.
 
-**Stack**
-
-`React` `TypeScript` `Next.js` `Node.js` `AI`
+**Stack:** `React` `TypeScript` `Next.js` `Node.js` `AI`
 
 ---
 
-## 🧠 Currently Learning
 
-```text
-Advanced Backend Architecture
-        ↓
-Distributed Job Processing
-        ↓
-AI Agent & LLM Systems
-        ↓
-Cloud-Native Architecture
-        ↓
-Scalable Full-Stack Applications
-```
+# 🛠️ Tech Stack
 
-I'm especially interested in understanding not just **how to build a feature**, but how to design the underlying system so it can handle real users, background jobs, failures, storage, and deployment.
+### Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="Express"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+</p>
+
+`FastAPI` `REST APIs` `JWT` `Socket.IO` `WebSockets`
+
+### AI / GenAI
+
+`LLMs` `Generative AI` `Hugging Face` `Ollama` `OpenRouter`
+
+`LangChain` `PaddleOCR` `OpenCV` `MediaPipe`
+
+### Databases & Infrastructure
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
+</p>
+
+`Cloudflare R2` `Amazon S3` `GitHub Actions` `Docker Compose`
 
 ---
 
-## 📊 GitHub Activity
-
-> These cards are generated and stored directly in this repository using GitHub Actions rather than relying on the public stats Vercel endpoint.
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics"/>
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+
+</div>
+
+<p align="center">
+  <sub>Automatically updated through GitHub Actions.</sub>
+</p>
+
+---
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sahani78">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sagolsa78">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sagolsa78.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Sagolsa78">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:sahanimohit5ed@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/Sagolsa78/Sagolsa78/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-* 🥈 **Runner-up — Ingenuity 2024**
-* 🏆 Participated in **Smart India Hackathon 2024**
-* 🚀 Participated in **TechTrek Hackathon**
-* 💻 Internship experience across **Full-Stack, AI and SaaS development**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahani78">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://github.com/Sagolsa78">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://sagolsa78.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel" />
-  </a>
-
-  <a href="https://x.com/Sagolsa78">
-    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x" />
-  </a>
-
-  <a href="mailto:sahanimohit5ed@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-### 💡 Building → Breaking → Learning → Shipping
-
-**Thanks for visiting my profile!**
+### 💻 Build. Break. Learn. Ship. Repeat. 🚀
 
 </div>
